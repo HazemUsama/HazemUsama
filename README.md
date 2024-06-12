@@ -30,6 +30,6 @@ A custom UNIX command interpreter in C:
 
 ## 📫 Connect with Me
 - **Email**: [hazemosama681@gmail.com](mailto:hazemosama681@gmail.com)
-- **LinkedIn**: [Hazem Osama](https://www.linkedin.com/in/hazem-osama)
+- **LinkedIn**: [Hazem Osama](https://www.linkedin.com/in/hazem-osama-188818254/)
 
 Explore my projects, let's collaborate, or just drop a message to chat about tech!
